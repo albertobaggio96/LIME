@@ -1,0 +1,68 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 3%;
+
+}
+#corpo{
+    width: 70%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 55px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: 'Lato', sans-serif;;
+
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    color: #00dd00;
+    margin: 0%;
+
+}
+
+img{
+    width: 170px;
+}
+
+nav{
+    background-color: #00dd00;
+    padding: 5px;
+    text-align: center;
+}
+
+nav>button{
+    font-size: x-small;
+}
+
+.monopattino>p{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.monopattino>div{
+    font-size: small;
+}
+
+.carica{
+    margin-left: 0;
+    border-radius: 5px;
+}
+
+.gino{
+    border: 10px solid orange;
+    width: 40%;
+}
+
+.mike{
+    border: 10px solid green;
+    width: 75%;
+}
+
+.fede{
+    border: 10px solid red;
+    width: 20%;
+}
